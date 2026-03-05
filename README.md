@@ -37,6 +37,8 @@ B --> C[Event Driven Architecture]
 C --> D[Cloud Native]
 D --> E[Scalable Systems]
 
-<p> <img src="https://img.shields.io/badge/C%23-.NET-blue"/> <img src="https://img.shields.io/badge/.NET-6+-purple"/> <img src="https://img.shields.io/badge/ASP.NET-Core-blue"/> <img src="https://img.shields.io/badge/EF-Core-green"/> <img src="https://img.shields.io/badge/Dapper-orange"/> </p>
+## hola
+---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAzure&layout=compact&theme=tokyonight"/> </p>
 
 
