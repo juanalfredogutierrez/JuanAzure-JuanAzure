@@ -1,40 +1,38 @@
-# 👋 Hola, soy Juan
+<!-- BANNER -->
 
-🎯 **Senior .NET Full Stack Developer | Arquitecto de Software | Cloud Enthusiast**
+<h1 align="center">👋 Hola, soy Juan Alfredo Gutiérrez</h1>
 
-Me especializo en el diseño y migración de arquitecturas modernas con **.NET, Angular y Azure**, aplicando patrones como **DDD y CQRS** para construir sistemas escalables y mantenibles. Combino experiencia en backend, frontend y DevOps para entregar soluciones completas.
+<h3 align="center">
+Tech Lead | Senior .NET Engineer | Software Architect | Cloud & Microservices
+</h3>
 
----
-
-## 🚀 Stack principal
-- **Backend:** .NET 6/8, ASP.NET Core, EF Core, DDD, CQRS
-- **Frontend:** Angular 16, TypeScript, RxJS
-- **Cloud:** Azure Functions, Blob Storage, SQL Azure
-- **DevOps:** GitHub Actions, CI/CD, Docker, Kubernetes
-- **Testing:** xUnit, Moq, NUnit
+<p align="center">
+Ingeniero de Sistemas especializado en arquitectura de software, microservicios y soluciones cloud sobre Microsoft Azure.
+</p>
 
 ---
 
-## 📌 Proyectos destacados
-- 🔄 Migración de sistemas legacy a .NET 6 + Angular 16
-- 📑 Plataforma de facturación electrónica con integración SUNAT
-- 🛡️ Arquitectura DDD + CQRS con pruebas unitarias (xUnit + Moq)
-- 📊 Automatización de reportes con SQL + Excel + Azure Functions
+# 🚀 Sobre mí
+
+Soy **Senior .NET Engineer y Tech Lead** con más de **8 años de experiencia desarrollando software empresarial**.
+
+Mi enfoque profesional está en:
+
+- Diseñar **arquitecturas escalables**
+- Liderar **modernización de plataformas legacy**
+- Construir **sistemas distribuidos resilientes**
+- Implementar **prácticas DevOps y CI/CD**
+- Alinear tecnología con **objetivos de negocio**
+
+Actualmente trabajo liderando **evolución tecnológica de plataformas financieras**, ayudando a equipos a construir soluciones robustas y mantenibles.
 
 ---
 
-## 📈 Estadísticas
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+# 🧠 Enfoque de Arquitectura
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
-
----
-
-## 🌐 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- 📧 juan@example.com
-- 📝 Blog técnico: [juan.dev](https://juan.dev)
-
----
-
-✨ *“El código limpio y la arquitectura sólida son la base de sistemas que perduran.”*
+```mermaid
+flowchart LR
+A[Domain Driven Design] --> B[Microservices]
+B --> C[Event Driven Architecture]
+C --> D[Cloud Native]
+D --> E[Scalable Systems]
