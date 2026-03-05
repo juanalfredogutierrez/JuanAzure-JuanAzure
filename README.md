@@ -41,3 +41,4 @@ D --> E[Scalable Systems]
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAzure&layout=compact&theme=tokyonight" />
 </p>
+&cache_seconds=1800
