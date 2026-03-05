@@ -37,7 +37,7 @@ B --> C[Event Driven Architecture]
 C --> D[Cloud Native]
 D --> E[Scalable Systems]
 
-<p align="center">
+<p align='center'>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAzure&layout=compact&theme=tokyonight" />
 </p>
