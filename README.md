@@ -39,8 +39,4 @@ D --> E[Scalable Systems]
 
 <p> <img src="https://img.shields.io/badge/C%23-.NET-blue"/> <img src="https://img.shields.io/badge/.NET-6+-purple"/> <img src="https://img.shields.io/badge/ASP.NET-Core-blue"/> <img src="https://img.shields.io/badge/EF-Core-green"/> <img src="https://img.shields.io/badge/Dapper-orange"/> </p>
 
-<p> <img src="https://img.shields.io/badge/DDD-Architecture-green"/> <img src="https://img.shields.io/badge/CQRS-Pattern-orange"/> <img src="https://img.shields.io/badge/Clean-Architecture-blue"/> </p>
 
-<p> <img src="https://img.shields.io/badge/Azure-Cloud-blue"/> <img src="https://img.shields.io/badge/Docker-Container-blue"/> <img src="https://img.shields.io/badge/Kubernetes-AKS-blue"/> <img src="https://img.shields.io/badge/GitHub-Actions-black"/> </p>
-<p> <img src="https://img.shields.io/badge/RabbitMQ-Messaging-orange"/> </p>
-<p> <img src="https://img.shields.io/badge/Angular-red"/> <img src="https://img.shields.io/badge/TypeScript-blue"/> </p>
