@@ -39,6 +39,6 @@ D --> E[Scalable Systems]
 
 ## Estadísticas de GitHub
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAzure&layout=compact&theme=tokyonight"/> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuanAzure&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAzure&layout=compact&theme=tokyonight"/></p>
 
 
